@@ -1,0 +1,26 @@
+{
+  "name": "coin98-token-issuer",
+  "version": "0.1.0",
+  "description": "Coin98 Token Issuer Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coin98/coin98-token-issuer"
+  },
+  "keywords": [
+    "c98",
+    "coin98",
+    "erc20",
+    "wallet",
+    "defi"
+  ],
+  "author": "KhiemKino",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/coin98/coin98-token-issuer/issues"
+  },
+  "homepage": "https://github.com/coin98/coin98-token-issuer#readme"
+}
